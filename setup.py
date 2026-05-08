@@ -10,7 +10,7 @@ setup(
     license='GNU',
     packages = ['truffleHog'],
     install_requires=[
-        'GitPython == 3.1.41',
+        'GitPython == 3.1.49',
         'truffleHogRegexes == 0.0.4'
     ],
     entry_points = {
